@@ -80,7 +80,7 @@ public class LinkedList1 {
         if ( head == null ) { // The new item is the first (and only) one in the list.
             // VOTRE PREMIER MORCEAU DU CODE VIENT ICI
             head = newNode;
-            System.out.println("Yeah, there's a problem here");
+            // System.out.println("Yeah, there's a problem here");
 
         }
 
